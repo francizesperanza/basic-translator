@@ -1,0 +1,31 @@
+English: cow
+Filipino: baka
+French: vache
+Korean: amso
+
+English: family
+Filipino: pamilya
+French: famille
+Japanese: kazoku
+Korean: gajog
+Spanish: familia
+
+English: love
+Filipino: mahal
+French: aimer
+Greek: agapi
+Japanese: ai
+Korean: sarang
+
+English: maybe
+Filipino: baka
+Japanese: tabun
+Korean: amado
+Spanish: quizas
+
+English: my
+Filipino: aking
+Japanese: watashi
+Korean: naui
+Spanish: mi
+
